@@ -1849,8 +1849,8 @@ body {
   }
 }
 .cid-r4G24mvNvE {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #cccccc;
 }
 .cid-r4G24mvNvE .mbr-slider .carousel-control {
@@ -1884,7 +1884,7 @@ body {
   background: transparent !important;
 }
 .cid-r4G24mvNvE .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.6 !important;
 }
 .cid-r4G24mvNvE .mbr-gallery-title {
   font-size: .9em;
@@ -1906,7 +1906,7 @@ body {
   position: absolute;
   background: #554346 !important;
   background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0.7;
+  opacity: 0.6;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
